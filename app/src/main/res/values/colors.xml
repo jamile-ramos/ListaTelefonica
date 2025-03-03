@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="azulEscuro">#011a31</color>
+    <color name="corFundo">#e8ebe2</color>
+    <color name="azulMedio">#1899ac</color>
+    <color name="btnDelete">#DC3545</color>
+</resources>
