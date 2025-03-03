@@ -16,7 +16,7 @@ Android Studio – IDE de desenvolvimento
 SQLite – Banco de dados local
 🎥 Demonstração
 Aqui você pode incluir capturas de tela ou GIFs mostrando o funcionamento do app.
-
+<img src="Captura de Tela (289).png">
 
 📦 Como Executar o Projeto
 Clone este repositório:
